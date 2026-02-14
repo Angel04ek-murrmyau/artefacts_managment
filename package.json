@@ -1,0 +1,25 @@
+{
+  "name": "artifacts_management",
+  "version": "1.0.0",
+  "description": "description",
+  "homepage": "https://github.com/Angel04ek-murrmyau/artefacts_managment#readme",
+  "bugs": {
+    "url": "https://github.com/Angel04ek-murrmyau/artefacts_managment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel04ek-murrmyau/artefacts_managment.git"
+  },
+  "license": "ISC",
+  "author": "Maxim",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "jquerry": "^0.0.1-security",
+    "user": "^0.0.0"
+  }
+}
